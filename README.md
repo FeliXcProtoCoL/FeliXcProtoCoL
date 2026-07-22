@@ -13,6 +13,8 @@
 ## 🧠 My Focus Areas
 - WEB DEVOLOPMENT
 - GENRATIVE AI
+- MACHINE LEARNING
+  
 
 
 ## 📊 GitHub Stats & Trophies
