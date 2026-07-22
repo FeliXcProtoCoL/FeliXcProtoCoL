@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=FeliXcProtoCo">
-    <img src="https://komarev.com/ghpvc/?username=Pamther2007&label=Profile%20views&color=00FFFF&style=flat-square" alt="Pamther2007's profile views" />
+  <a href="https://komarev.com/ghpvc/?username=FeliXcProtoCoL">
+    <img src="https://komarev.com/ghpvc/?username=FeliXcProtoCoL&label=Profile%20views&color=00FFFF&style=flat-square" alt="FeliXcProtoCoL's profile views" />
   </a>
 </p>
 
@@ -19,13 +19,13 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/Pamther2007">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pamther2007&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Pamther2007's GitHub Stats" />
+  <a href="https://github.com/FeliXcProtoCoL">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FeliXcProtoCoL&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="FeliXcProtoCoL's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=Pamther2007&theme=radical&hide_border=true&cache_seconds=86400" alt="Pamther2007's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=FeliXcProtoCoL&theme=radical&hide_border=true&cache_seconds=86400" alt="FeliXcProtoCoL's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Pamther2007&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="UTSAV SAHA's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=FeliXcProtoCoL&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="UTSAV SAHA's GitHub Trophies" />
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Pamther2007&theme=radical&radius=10" alt="Pamther2007's Activity Graph" />
